@@ -3,8 +3,8 @@
 </p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=neowho&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
   
-### Hi there  🌅
-- :orange_book: 技术博客：[https://blog.csdn.net/weixin_51322383](https://blog.csdn.net/weixin_51322383)
+### Hi, Welcome to My Profile  🌅
+- 📘: 技术博客：[https://blog.csdn.net/weixin_51322383](https://blog.csdn.net/weixin_51322383)
 
 - 🎸:  BiliBili：[https://space.bilibili.com/391938976](https://space.bilibili.com/391938976)
 
