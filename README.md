@@ -22,3 +22,5 @@
 ![](assets/Bottom_down.svg)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JehanRio&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JehanRio&theme=dark&layout=compact)
+
