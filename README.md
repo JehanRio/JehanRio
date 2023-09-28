@@ -7,7 +7,7 @@
 
 ### Hi, Welcome to My Profile  🌅
 - 📘: 技术博客：
-  - [https://blog.csdn.net/weixin_51322383](https://blog.csdn.net/weixin_51322383)
+  - [https://blog.csdn.net/weixin_51322383?type=blog](https://blog.csdn.net/weixin_51322383?type=blog)
 
 - 🎸: BiliBili：
   - [https://space.bilibili.com/391938976](https://space.bilibili.com/391938976)
